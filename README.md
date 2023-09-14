@@ -5,5 +5,6 @@ The programming language used in this project is R. Since most the med students 
 
 The R markdown files here are for anyone who are new to R and machine learning.
 
-## RcodeforUKB.pdf provides the basic code for R novice to load the data.
+## RcodeforUKB.pdf provides the basic code for R novice. 
+A keywords searching function is included in this file.
 ##
